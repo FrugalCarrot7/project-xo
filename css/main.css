@@ -1,0 +1,50 @@
+
+
+body {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  
+}
+
+h1 {
+  font-size: 65px;
+  text-align: center;
+  color: red;
+}
+
+#player-board {
+  font-size: 30px;
+  margin-top: 50px;
+  text-align: center;
+
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 76px;
+  text-align: center;
+   
+}
+
+
+
+td {
+  border: 5px solid black;
+  width: 50px;
+  height: 50px;
+  font-size: 40px;
+}
+
+#restart {
+  background: red;
+  color: white;
+  margin: 45px 0 0 0;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+
+
+ 
